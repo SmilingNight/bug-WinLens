@@ -24,7 +24,5 @@
 ## 下载
 
 前往 [Releases](../../releases) 页面下载最新版 `WinLens.exe`。
+或者直接下载代码中的exe文件
 
-
-```bash
-gcc -o WinLens.exe WindowSpy.c -mwindows -s -O2

@@ -25,9 +25,6 @@
 
 前往 [Releases](../../releases) 页面下载最新版 `WinLens.exe`。
 
-## 自行编译
-
-需要安装 [MinGW-w64](https://www.mingw-w64.org/) 或任意 C 编译器。
 
 ```bash
 gcc -o WinLens.exe WindowSpy.c -mwindows -s -O2
